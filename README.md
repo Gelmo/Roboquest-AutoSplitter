@@ -4,7 +4,7 @@ LiveSplit AutoSplitter for Roboquest (0.6.x)
 ## Notes:
 - Currently, this does not keep track of the route you have taken. You should title and organize your runs accordingly. This script will only work if you have the correct number of splits configured.
 - Splits for each route can be found at [the Roboquest page on speedrun.com](https://www.speedrun.com/roboquest) in [the Resources section](https://www.speedrun.com/roboquest/resources).
-- To show your horizontal speed in LiveSplit, I suggest using [kugelrund's plugin](https://github.com/kugelrund/LiveSplit.MemoryGraph). Roboquest will be available in the drop-down menu titled 'Game:' after you've pressed the 'Update XML file' button. This can be found on the MemoryGraph tab in Layout Settings after you've added MemoryGraph to your layout.
+- To show your horizontal speed in LiveSplit, I suggest using [kugelrund's plugin](https://github.com/kugelrund/LiveSplit.MemoryGraph). Roboquest will be available in the drop-down menu titled `Game:` after you've pressed the `Update XML file` button. This can be found on the MemoryGraph tab in Layout Settings after you've added MemoryGraph to your layout.
 - There are two additional options:
   - `Automatically reset timer upon death`
     - (Default: Disabled) - When enabled, your LiveSplit timer will reset as soon as you die in-game
