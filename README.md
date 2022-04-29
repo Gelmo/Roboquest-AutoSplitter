@@ -1,5 +1,5 @@
 # Roboquest-AutoSplitter
-LiveSplit AutoSplitter for Roboquest (0.6.x)
+LiveSplit AutoSplitter for Roboquest (0.8.9)
 
 ## Notes:
 - Currently, this does not keep track of the route you have taken. You should title and organize your runs accordingly. This script will only work if you have the correct number of splits configured.
@@ -16,12 +16,13 @@ LiveSplit AutoSplitter for Roboquest (0.6.x)
 - I've included my layout file, `roboquest_layout.lsl`, which is already configured with everything you need to improve your runs. I would suggest starting with this and adjusting to your preferences. If you are going to use this, you need to have [kugelrund's plugin](https://github.com/kugelrund/LiveSplit.MemoryGraph) installed. This layout shows the splits, possible time save on current segment, in-game time (total and segment), real time (total and segment), and your horizontal speed as a number and a bar graph showing your speed over a period of time. Here is a screenshot of the layout:
 ![Roboquest Layout](/roboquest_livesplit.png)
 - If you use my layout file, you MUST go to Edit Layout > Layout Settings > Scriptable Auto Splitter and then change the Script Path to the location of `roboquest.asl` on your computer after you've downloaded that from this repo.
+- The font used in the layout file is Hemi Head Rg BoldItalic. The file `hemihead-bd-it.otf` in this repo is the font used in the layout file.
 
 ## Credits:
 - LongerWarrior: Provided me with a significant amount of information that was required for making this. Also reviewed this script at multiple stages to help improve the quality, size, performance, and maintainability
 - Sotumney: Managing the speedrunning community for Roboquest
 - dmgvol: Pointer path improvements
-- Ero: Helped me learn the basics of memory analysis for games in Unreal Engine 4
+- Ero: Helped me learn the basics of memory analysis for games in Unreal Engine 4, also showed me how to update this more easily in the future.
 - Tedder: Helped me understand more about pointers in general
 - Speedrun Tool Development server on Discord: Helped with initial research, general questions, and brainstorming. Very active community that helped me hit the ground running.
 - Roboquest community on Discord: This is a welcoming community that is easy to be a part of, and I would not have been interested in speedrunning this if that were not the case.
