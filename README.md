@@ -1,5 +1,8 @@
 # Roboquest-AutoSplitter
-LiveSplit AutoSplitter for Roboquest (0.8.9)
+LiveSplit AutoSplitter for Roboquest (0.12.2)
+
+# COMPONENT
+You should instead consider using [the component version](https://github.com/Gelmo/LiveSplit.Roboquest), which offers the same features, a built-in speed graph, and updates via LiveSplit.
 
 ## Notes:
 - Currently, this does not keep track of the route you have taken. You should title and organize your runs accordingly. This script will only work if you have the correct number of splits configured.
